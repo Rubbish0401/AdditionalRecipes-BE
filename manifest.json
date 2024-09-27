@@ -1,0 +1,22 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": ["Rubbish0401"]
+	},
+	"header": {
+		"uuid": "b31864e7-efd7-47ba-bb27-b13617d7a0d7",
+		"name": "AdditionalRecipes for MCBE",
+		"description": "Add some recipes. This is a port.",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 19, 0]
+	},
+	"modules": [
+		{
+			"uuid": "f33d4136-8318-4f69-8638-08c4b30bc9fa",
+			"description": "Add some recipes.",
+			"type": "data",
+			"version": [1, 0, 0]
+		}
+	],
+	"dependencies": []
+}

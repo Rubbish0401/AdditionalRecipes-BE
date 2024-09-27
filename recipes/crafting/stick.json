@@ -1,0 +1,23 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "minecraft:stick"
+		},
+		"tags": [ "crafting_table" ],
+		"pattern": [
+			"L",
+			"L"
+		],
+		"key": {
+			"L" :{
+				"tag": "minecraft:logs"
+			}
+		},
+		"result": {
+			"item": "minecraft:stick",
+			"count": 16
+		},
+		"unlock": []
+	}
+}
